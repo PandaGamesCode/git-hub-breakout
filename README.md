@@ -1,10 +1,10 @@
 # Useful Links
 
 ## Search Engines
-- [Google](https://www.google.com) - `https://www.google.com`
+- [Google](https://www.google.com) - [https://www.google.com](https://www.google.com)
 
 ## Video Platforms
-- [YouTube](https://www.youtube.com) - `https://www.youtube.com`
+- [YouTube](https://www.youtube.com) - [https://www.youtube.com](https://www.youtube.com)
 
 ## Educational Resources
 - [Wikipedia](https://www.wikipedia.org) - `https://www.wikipedia.org`
