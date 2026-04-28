@@ -1,22 +1,22 @@
 # Useful Links
 
 ## Search Engines
-- [Google](https://www.google.com) - [https://www.google.com](https://www.google.com)
+- [Google](https://www.netsmartz.org/articles/netiquette) - [https://www.netsmartz.org/articles/netiquette](https://www.netsmartz.org/articles/netiquette)
 
 ## Video Platforms
-- [YouTube](https://www.youtube.com) - [https://www.youtube.com](https://www.youtube.com)
+- [YouTube](https://www.netsmartz.org/articles/netiquette) - [https://www.netsmartz.org/articles/netiquette](https://www.netsmartz.org/articles/netiquette)
 
 ## Educational Resources
-- [Wikipedia](https://www.wikipedia.org) - [https://www.wikipedia.org](https://www.wikipedia.org)
+- [Wikipedia](https://www.netsmartz.org/articles/netiquette) - [https://www.netsmartz.org/articles/netiquette](https://www.netsmartz.org/articles/netiquette)
 
 ## Popular Websites
-- [Reddit](https://www.reddit.com) - [https://www.reddit.com](https://www.reddit.com)
-- [Twitter](https://www.twitter.com) - [https://www.twitter.com](https://www.twitter.com)
+- [Reddit](https://www.netsmartz.org/articles/netiquette) - [https://www.netsmartz.org/articles/netiquette](https://www.netsmartz.org/articles/netiquette)
+- [Twitter](https://www.netsmartz.org/articles/netiquette) - [https://www.netsmartz.org/articles/netiquette](https://www.netsmartz.org/articles/netiquette)
 
 ## Social Media
-- [Facebook](https://www.facebook.com) - [https://www.facebook.com](https://www.facebook.com)
-- [Instagram](https://www.instagram.com) - [https://www.instagram.com](https://www.instagram.com)
+- [Facebook](https://www.netsmartz.org/articles/netiquette) - [https://www.netsmartz.org/articles/netiquette](https://www.netsmartz.org/articles/netiquette)
+- [Instagram](https://www.netsmartz.org/articles/netiquette) - [https://www.netsmartz.org/articles/netiquette](https://www.netsmartz.org/articles/netiquette)
 
 ## Coding Resources
-- [GitHub](https://www.github.com) - [https://www.github.com](https://www.github.com)
-- [Stack Overflow](https://stackoverflow.com) - [https://stackoverflow.com](https://stackoverflow.com)
+- [GitHub](https://www.netsmartz.org/articles/netiquette) - [https://www.netsmartz.org/articles/netiquette](https://www.netsmartz.org/articles/netiquette)
+- [Stack Overflow](https://www.netsmartz.org/articles/netiquette) - [https://www.netsmartz.org/articles/netiquette](https://www.netsmartz.org/articles/netiquette)
